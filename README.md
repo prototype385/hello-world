@@ -1,2 +1,6 @@
 # hello-world
-Wil like to learn.
+
+Hi ladys and gentlemen
+
+i am here to learn everything there is to learn.
+
